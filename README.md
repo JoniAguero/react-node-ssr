@@ -1,5 +1,3 @@
+# CRUD APP - SERVER SIDE RENDERING
 
-
-## Crud React App
-React, Redux, Axiosm API
-
+Ejemplo de cómo renderizar Aplicación REACT c/ Node JS.
